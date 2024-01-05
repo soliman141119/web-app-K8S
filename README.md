@@ -13,7 +13,7 @@ Before deploying the web app with Kubernetes, make sure you have the following p
 - A running Kubernetes cluster.
 - `kubectl` command-line tool installed and configured to connect to your Kubernetes cluster.
 - Basic knowledge of HTML, CSS, and JavaScript.
-- [List any additional prerequisites or dependencies here]
+
 
 ## Deployment
 
