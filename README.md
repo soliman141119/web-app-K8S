@@ -2,7 +2,9 @@
 This repository contains the deployment and service files for a web app built with HTML, CSS, and JavaScript and deployed using Kubernetes.
 ## Description
 
-This web app is designed to [briefly describe your web app and its purpose].
+This web app is designed to [We are your one-stop shop for all things fashionable and comfortable. At TPM Store, we pride ourselves on curating a wide selection of high-quality clothing made from the softest, most breathable fabrics.
+
+Whether you're looking for the perfect t-shirt, cozy sweatpants, or lounge-worthy joggers, we have an array of styles sure to please. All of our clothing is designed with comfort in mind. You'll love how lightweight and flexible our fabrics feel, allowing you to move freely throughout your day.].
 
 ## Prerequisites
 
